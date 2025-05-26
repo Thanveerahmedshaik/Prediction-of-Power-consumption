@@ -81,4 +81,4 @@ This project focuses on predicting **monthly electricity consumption** in Lithua
 
 **Thanveer Ahmed Shaik**  
 Vilnius Tech, Lithuania | Master's Thesis  
-[LinkedIn]([https://www.linkedin.com/in/thanveer-ahmed-shaik/]) • [Email](shaikthanveerahmed123@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/thanveer-ahmed-shaik/) • [Email](shaikthanveerahmed123@gmail.com)
