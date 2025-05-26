@@ -66,6 +66,8 @@ This project focuses on predicting **monthly electricity consumption** in Lithua
 | SVR          | 0.8771  | 1,945,799 kWh | 5,048,116 kWh | 23.17%    |
 
 
+The **Ensemble** model (XGBoost + LightGBM) showed superior generalization with reduced MAPE.
+
 ---
 
 ## 🛠 Technologies Used
