@@ -60,10 +60,11 @@ This project focuses on predicting **monthly electricity consumption** in Lithua
 
 | Model        | Test R² | Test MAE      | Test RMSE     | Test MAPE |
 |--------------|---------|---------------|---------------|-----------|
-| XGBoost      | 0.9173  | 1,410,958 kWh | 4,139,839 kWh | 12.45%    |
-| SVR          | 0.8771  | 1,945,799 kWh | 5,048,116 kWh | 23.17%    |
 | LightGBM     | 0.9674  |   926,310 kWh | 2,598,587 kWh | 10.46%    |
+| XGBoost      | 0.9173  | 1,410,958 kWh | 4,139,839 kWh | 12.45%    |
 | RandomForest | 0.8098  | 2,367,406 kWh | 6,280,370 kWh | 21.90%    |
+| SVR          | 0.8771  | 1,945,799 kWh | 5,048,116 kWh | 23.17%    |
+
 
 ---
 
